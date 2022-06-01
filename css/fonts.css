@@ -1,0 +1,18 @@
+.css-selector {
+    font-family: url('style.css');
+    }
+
+@font-face {
+    font-family: 'quicksand';
+    src: url('/fonts/Quicksand-VariableFont_wght.ttf') format('Quicksand-VariableFont_wght');
+    font-weight: 125 950;
+    font-stretch: 75% 125%;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'quicksand-italic';
+    src: url('/fonts/Quicksand-VariableFont_wght.ttf') format('Quicksand-VariableFont_wght');
+    font-weight: 125 950;
+    font-stretch: 75% 125%;
+    font-style: italic;
+}
